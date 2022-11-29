@@ -153,3 +153,4 @@ Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Pr
 ---
 
 #### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***04_js-iii*** de Slack
+//  npm test JSIII.test.js

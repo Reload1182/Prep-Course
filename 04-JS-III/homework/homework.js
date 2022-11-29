@@ -254,6 +254,7 @@ function continueStatement(numero) {
   //Pista: usá el statement 'continue'
   // Tu código:
   
+  
   var array5 = [];
   var suma = numero;
   for(var i=0 ; i <10; i++){
